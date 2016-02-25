@@ -1,0 +1,28 @@
+name: Voice Of The Harp Limited
+favicon: null
+layout_spectrum: 0.5292539126239717
+typography_spectrum: 0.2343329598661512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.04547503055073321
+  lightness: 0.9604281440842897
+  saturation: 0.7435979270376265
+  rhythmicContrast: 0.9117663186043501
+purpose: []
