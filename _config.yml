@@ -1,6 +1,6 @@
 name: Voice Of The Harp Limited
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49067
 typography_spectrum: 0.74714
 title: Voice Of The Harp Limited
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#ac8122'
-    - '#d5d6d8'
-    - '#4d390b'
+    - '#0e0b04'
+    - '#72512e'
+    - '#f0f0f0'
+    - '#462c15'
+    - '#b69876'
   brandStrength: 0.75
   lightness: 0.9604281440842897
   saturation: 0.6875
